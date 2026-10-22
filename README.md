@@ -4,6 +4,10 @@
 
 This project was completed as part of my data analysis studies. It uses Microsoft Power BI to practice business intelligence, data visualization, and report development using the Northwind dataset.
 
+## Dashboard Preview
+
+![Northwind BI Dashboard](screenshots/northwind-dashboard.png)
+![Northwind BI Dashboard 2](screenshots/northwind-dashboard2.png)
 ## Project Objectives
 
 The project involved exploring business data and presenting information through Power BI reports and visualizations, following the assignment requirements.
